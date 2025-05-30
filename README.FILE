@@ -1,0 +1,38 @@
+|| 🎵 Nasheed Music Player ||
+
+A simple and elegant web-based music player designed to play peaceful Islamic nasheeds. Built using HTML, CSS, and JavaScript.
+
+|| 🚀 Features |
+
+- 🎧 Play/Pause Nasheeds  
+- ⏭️ Next/Previous Track  
+- 📃 Dynamic Playlist  
+- 🔊 Volume Control  
+- 🕋 Clean and Islamic UI Theme  
+- 📱 Responsive Design for mobile and desktop
+
+|| 🛠️ Tech Stack ||
+
+- HTML5  
+- CSS3  
+- JavaScript 
+
+|| 📂 Folder Structure ||
+
+|| nasheed-music-player ||
+│
+├── index.html
+├── style.css
+├── script.js
+├── /audio (All nasheed files in .mp3 format)
+└── /images (Icons, background, etc.)
+
+bash
+Copy
+Edit
+
+|| 📥 How to Use ||
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/yourusername/nasheed-music-player.git
